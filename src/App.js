@@ -6,6 +6,7 @@ import Show from "./components/show";
 import Item from "./components/item";
 import Article from "./components/article";
 import Reviews from "./components/reviews";
+import Footer from "./components/footer";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Item />
       <Article />
       <Reviews />
+      <Footer />
     </div>
   );
 }
