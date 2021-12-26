@@ -16,7 +16,7 @@ function App() {
       <Features />
       <Show />
       <Item />
-      <Article />
+
       <Reviews />
       <Footer />
     </div>
